@@ -3,3 +3,5 @@
 2) pandas
 3) numpy
 4) plotting graph
+5) startup funding assignment
+
